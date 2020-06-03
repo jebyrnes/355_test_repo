@@ -1,2 +1,3 @@
 # 355_test_repo
-This is a test repo for a class.
+This is a test repo for a class.  
+I :heart: Github
